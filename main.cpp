@@ -1,7 +1,11 @@
-void main();
+void main()
 {
 	for (;;)
 	{
 	}
 }
+
+
+// Main feature
+
 
