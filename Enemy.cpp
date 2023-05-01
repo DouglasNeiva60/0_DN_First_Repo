@@ -1,0 +1,5 @@
+bool Damage()
+{
+}
+// Damage function
+
